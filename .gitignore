@@ -259,3 +259,15 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/clock/readme/images/postbuild.png
+/clock/readme/images/OutputTypes.gif
+/clock/readme/images/ManageConnections.gif
+/clock/readme/images/linker.png
+/clock/readme/images/firstconnection.png
+/clock/readme/images/debuggerexport.png
+/clock/readme/images/ChangeRemote.gif
+/clock/readme/images/ArchOptions.gif
+/clock/readme/readme.html
+/clock/readme/stylesheet.css
+/clock/clock.vcxproj
+/clock.sln
